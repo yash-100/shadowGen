@@ -1,0 +1,9 @@
+cython
+dill
+dominate
+imageio
+numpy
+opencv-python
+Pillow
+scipy
+tqdm
